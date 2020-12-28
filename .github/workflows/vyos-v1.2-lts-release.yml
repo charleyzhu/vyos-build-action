@@ -11,7 +11,7 @@ env:
   ARCHITECTURE: amd64
   BUILD_BY: vyos-build-action@github.com
   BUILD_TYPE: release
-  VERSION: 1.2.6-S1
+  VERSION: 1.2.6-S2
   DEBIAN_MIRROR: http://ftp.us.debian.org/debian/
 
 jobs:
